@@ -2,6 +2,8 @@
 
 This project demonstrates a simple dashboard for visualizing sensor data from an ESP32 microcontroller via MQTT. The ESP32 publishes simulated sensor readings (temperature and humidity) to an MQTT broker, and a Python script subscribes to these topics to display the data in real-time using Matplotlib.
 
+<img src="image.png" width="100" hight="100" >
+
 ## Project Structure
 
 ```
